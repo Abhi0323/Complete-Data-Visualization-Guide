@@ -15,8 +15,11 @@ Visualizations exist to amplify the message within the data. The better the ampl
 **Repository Contents**
 
 Data Exploration: Understand the process of exploring your data and preparing it for visualization.
+
 Introduction to Matplotlib: Discover Matplotlib, a foundation stone of data visualization with Python. Learn how to create static, animated, and interactive visualizations with this versatile library.
+
 Introduction to Seaborn: Get acquainted with Seaborn, a Python library that simplifies creating intricate visualizations. Seaborn works seamlessly with pandas DataFrames, enhancing its functionality while providing a rich repository of visualizations.
+
 Crafting Plots with Matplotlib and Seaborn: Master the art of visualizing data by learning to plot a wide array of graphs from simple to complex.
 
 In this guide, you will not only learn the syntax to create beautiful plots but also understand how different plots can be used to draw insights from various types of data.
